@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+
+.img img{
+    width: 60%;
+    height: 400px;
+    margin: 15px 20%;
+}
+
+.txt{
+    text-align: center;
+}
